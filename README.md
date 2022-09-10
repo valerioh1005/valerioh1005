@@ -1,7 +1,7 @@
 <img src="https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 
 <h1 align="center">Hi 👋, I'm Henry Valerio</h1>
-<h3 align="center">I'm a HTML Email & Front-End Developer</h3>
+<h3 align="center">I am an HTML Email & Front-End Developer</h3>
 
 - 🔭 I’m currently working on **building a Wordpress Website**
 
