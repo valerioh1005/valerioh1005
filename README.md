@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 Henry Valerio
 
-<!--
-**valerioh1005/valerioh1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Henry Valerio
+#### I am a Front-End Developer & HTML Email Developer
+![I am a Front-End Developer & HTML Email Developer](https://thumbs.dreamstime.com/b/sistema-del-garabato-desarrollo-web-fije-de-garabatos-l%C3%ADnea-arte-vector-elementos-para-su-dise%C3%B1o-139983127.jpg)
 
-Here are some ideas to get you started:
+I specialize in HTML Email Development and Email Marketing. I'm also a Front-End Web Developer who enjoys building, fixing and maintaining websites and web-apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML /  CSS /  JS  /  BOOTSTRAP / MJML / MAILCHIMP
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
