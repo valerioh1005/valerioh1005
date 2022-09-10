@@ -1,4 +1,4 @@
-### Hi there 👋 Henry Valerio
+
 
 ### Hi there 👋, my name is Henry Valerio
 #### I am a Front-End Developer & HTML Email Developer
@@ -8,7 +8,7 @@ I specialize in HTML Email Development and Email Marketing. I'm also a Front-End
 
 Skills: HTML /  CSS /  JS  /  BOOTSTRAP / MJML / MAILCHIMP
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working building a Wordpress Website. 
 
 
 
