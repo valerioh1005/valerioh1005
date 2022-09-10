@@ -1,4 +1,4 @@
-<img src"https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
+<img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 
 <h1 align="center">Hi 👋, I'm Henry Valerio</h1>
 <h3 align="center">A HTML Email & Front-End Developer</h3>
