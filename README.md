@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 
 <h1 align="center">Hi 👋, I'm Henry Valerio</h1>
 <h3 align="center">A HTML Email & Front-End Developer</h3>
