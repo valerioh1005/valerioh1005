@@ -16,7 +16,7 @@
  <img src="https://pbs.twimg.com/profile_images/692996405607190528/VwZquHQK_400x400.png" alt="mjml-logo width="40" height="40">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj4Pqbrzay5wDVU9YpnxF7EbKqcOPq_HUkcdQd8jZ-WhVM4Vk4pg-sOcT0rO0uegfJCI0&usqp=CAU" 
  alt="wordpress-logo" width="80" height="40">
- <img src="https://mailchimp.com//email-design-guide/images/share-1a1fdf04.png" alt="mailchimp-logo" width="80" height="40"> 
+ <img src="https://leaptodigital.com/wp-content/uploads/2021/02/Salesforce-Logo.png" alt="salesforce-logo" width="80" height="40"> 
  <img src="https://www.daily.co/blog/content/images/2020/08/image-blogpost-webflow-directory@2x.jpg" alt="webflow-logo" width="80" height="40"                                                                                                                   
 </p>
 
